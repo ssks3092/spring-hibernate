@@ -613,7 +613,7 @@
                         </goals>
                         <configuration>
                             <srcFiles>
-                                <srcFile>static/db/postgresql.sql</srcFile>
+                                <srcFile>static/db/mysql.sql</srcFile>
                             </srcFiles>
                             <autocommit>true</autocommit>
                             <onError>continue</onError>
